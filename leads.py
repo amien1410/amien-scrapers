@@ -228,3 +228,16 @@ leads = [
 {'domain': 'brightwatergroup.com', 'fullname': 'Tracy Watts', 'position': 'General Manager, People & Culture', 'email': 'tracy.watts@brightwatergroup.com', 'score': 97, 'twitter': None, 'linkedin_url': 'https://www.linkedin.com/in/tracy-watts-2204b024b', 'phone_number': None}
 {'domain': 'brightwatergroup.com', 'fullname': 'Andre Rauch', 'position': 'Manager, Marketing & Stakeholder Engagement', 'email': 'andre.rauch@brightwatergroup.com', 'score': 99, 'twitter': None, 'linkedin_url': 'https://www.linkedin.com/in/andre-rauch-38298125', 'phone_number': None}
 ]
+
+# https://www.zoominfo.com/c/kincare-health-services-pty-ltd/104105290
+# https://www.zoominfo.com/c/ozcare/60556564
+# https://www.zoominfo.com/c/villa-maria-catholic-homes-ltd/112345206
+# https://www.zoominfo.com/c/challenge-community-services/357530884
+# https://www.zoominfo.com/c/cara-inc/347690387
+# https://www.zoominfo.com/c/nextt/203669962
+# https://www.zoominfo.com/c/retireaustralia-pty-ltd/354287940
+# https://www.zoominfo.com/c/st-ives-group-pty-ltd/398301440
+# https://www.zoominfo.com/c/craigcare/37408620?__cf_chl_rt_tk=SxqIzJQwXEZxAHFUyEiwHDUHA8pr9VSsK5pRq.7THBQ-1770544591-1.0.1.1-SvGTM0M886afG_pq2D.R3FxWXGroTzKVuSdSsN.IvD8
+# https://www.zoominfo.com/c/lyndoch-living-ltd/347288339
+# https://gemini.google.com/app/a62f394942802810
+# https://colab.research.google.com/drive/1ZpJuPjhtmZHyArqoKHLYzJguuYix_emg#scrollTo=eHA4Rah9Gz94
