@@ -401,3 +401,1049 @@ leads = [
 # https://www.zoominfo.com/c/lyndoch-living-ltd/347288339
 # https://gemini.google.com/app/a62f394942802810
 # https://colab.research.google.com/drive/1ZpJuPjhtmZHyArqoKHLYzJguuYix_emg#scrollTo=eHA4Rah9Gz94
+
+leads2 = 
+[
+  {
+    "name": "Nick Steele",
+    "position": "Chief Executive",
+    "domain": "metronorth.health.qld.gov.au",
+    "company": "Metro North Health"
+  },
+  {
+    "name": "Stephen Eaton",
+    "position": "Chief Operating Officer",
+    "domain": "metronorth.health.qld.gov.au",
+    "company": "Metro North Health"
+  },
+  {
+    "name": "Hari Iyer",
+    "position": "Acting Chief Finance and Corporate Officer",
+    "domain": "metronorth.health.qld.gov.au",
+    "company": "Metro North Health"
+  },
+  {
+    "name": "Jason Brown",
+    "position": "Chief Digital Health Officer",
+    "domain": "metronorth.health.qld.gov.au",
+    "company": "Metro North Health"
+  },
+  {
+    "name": "Elizabeth Rushbrook",
+    "position": "Chief Medical Officer",
+    "domain": "metronorth.health.qld.gov.au",
+    "company": "Metro North Health"
+  },
+  {
+    "name": "Bernard Curran",
+    "position": "Board Chair",
+    "domain": "metronorth.health.qld.gov.au",
+    "company": "Metro North Health"
+  },
+  {
+    "name": "Brett Bourke",
+    "position": "Acting Chief People and Culture Officer",
+    "domain": "metronorth.health.qld.gov.au",
+    "company": "Metro North Health"
+  },
+  {
+    "name": "Adj. Prof. Alanna Geary",
+    "position": "Chief Nursing and Midwifery Officer",
+    "domain": "metronorth.health.qld.gov.au",
+    "company": "Metro North Health"
+  }
+]
+[
+  {
+    "name": "Bryan Pyne",
+    "position": "Group Chief Executive Officer",
+    "domain": "sjog.org.au",
+    "company": "St John of God Health Care"
+  },
+  {
+    "name": "Wesley Smith",
+    "position": "Chief Financial Officer",
+    "domain": "sjog.org.au",
+    "company": "St John of God Health Care"
+  },
+  {
+    "name": "Sidone Thomas",
+    "position": "Chief Technology & Corporate Services Officer (CIO/COO level)",
+    "domain": "sjog.org.au",
+    "company": "St John of God Health Care"
+  },
+  {
+    "name": "Ben Edwards",
+    "position": "CEO, Murdoch & Mid West Region (Executive Lead)",
+    "domain": "sjog.org.au",
+    "company": "St John of God Health Care"
+  },
+  {
+    "name": "Tina Chinery",
+    "position": "CEO, Subiaco Hospital (Executive Lead)",
+    "domain": "sjog.org.au",
+    "company": "St John of God Health Care"
+  },
+  {
+    "name": "Bianca Pietralla",
+    "position": "Chief Executive Officer, St John of God Foundation (Marketing/Philanthropy Lead)",
+    "domain": "sjogfoundation.org.au",
+    "company": "St John of God Foundation"
+  },
+  {
+    "name": "Jonathan Holt",
+    "position": "Mental Health Lead & CEO Burwood/Richmond",
+    "domain": "sjog.org.au",
+    "company": "St John of God Health Care"
+  },
+  {
+    "name": "Hon. Kerry Sanderson AC CVO",
+    "position": "Chair of the Board",
+    "domain": "sjog.org.au",
+    "company": "St John of God Health Care"
+  }
+]
+[
+  {
+    "name": "Chris Blake",
+    "position": "Group Chief Executive Officer (SVHA)",
+    "domain": "svha.org.au",
+    "company": "St Vincent's Health Australia"
+  },
+  {
+    "name": "Richard Ryan",
+    "position": "CEO, NSW Private Hospitals",
+    "domain": "svph.org.au",
+    "company": "St Vincent's Private Hospitals"
+  },
+  {
+    "name": "Janine Loader",
+    "position": "Regional Chief Executive Officer, Victoria",
+    "domain": "svph.org.au",
+    "company": "St Vincent's Private Hospitals"
+  },
+  {
+    "name": "Oli Steele",
+    "position": "State CEO, Queensland Private Hospitals",
+    "domain": "svph.org.au",
+    "company": "St Vincent's Private Hospitals"
+  },
+  {
+    "name": "Kaylene Gaffney",
+    "position": "Group Chief Financial Officer",
+    "domain": "svha.org.au",
+    "company": "St Vincent's Health Australia"
+  },
+  {
+    "name": "Michelle Fitzgerald",
+    "position": "Group Chief Digital Officer (CIO/Digital Lead)",
+    "domain": "svha.org.au",
+    "company": "St Vincent's Health Australia"
+  },
+  {
+    "name": "Adj. Prof. Pat Garcia",
+    "position": "Group General Manager, Public Affairs & General Counsel (Marketing/Comm Lead)",
+    "domain": "svha.org.au",
+    "company": "St Vincent's Health Australia"
+  },
+  {
+    "name": "Chris Robinson",
+    "position": "National Chief Medical Officer",
+    "domain": "svha.org.au",
+    "company": "St Vincent's Health Australia"
+  }
+]
+[
+  {
+    "name": "Matt Hanrahan",
+    "position": "Chief Executive Officer",
+    "domain": "healthecare.com.au",
+    "company": "Healthe Care Australia"
+  },
+  {
+    "name": "Doug Meagher",
+    "position": "Chief Financial Officer",
+    "domain": "healthecare.com.au",
+    "company": "Healthe Care Australia"
+  },
+  {
+    "name": "Haydn Murray",
+    "position": "Head of Marketing and Communications",
+    "domain": "healthecare.com.au",
+    "company": "Healthe Care Australia"
+  },
+  {
+    "name": "Karen Gallagher",
+    "position": "Regional Chief Executive Officer - Northern NSW (Executive Lead)",
+    "domain": "healthecare.com.au",
+    "company": "Healthe Care Australia"
+  },
+  {
+    "name": "Chris Walsh",
+    "position": "Regional Chief Executive Officer (Executive Lead)",
+    "domain": "healthecare.com.au",
+    "company": "Healthe Care Australia"
+  },
+  {
+    "name": "Anchal Chitkara",
+    "position": "Head of Health Fund Relations & Revenue (Commercial Lead)",
+    "domain": "healthecare.com.au",
+    "company": "Healthe Care Australia"
+  },
+  {
+    "name": "Bernie Lyons",
+    "position": "Head of Risk and Compliance",
+    "domain": "healthecare.com.au",
+    "company": "Healthe Care Australia"
+  }
+]
+[
+  {
+    "name": "Terry Welch",
+    "position": "Chief Executive Officer",
+    "domain": "mbph.org.au",
+    "company": "Mildura Base Public Hospital"
+  },
+  {
+    "name": "Matthew Jukes",
+    "position": "Executive Director – Finance and Corporate Services (CFO)",
+    "domain": "mbph.org.au",
+    "company": "Mildura Base Public Hospital"
+  },
+  {
+    "name": "Nabrees Sinnalebbe",
+    "position": "Chief Medical Officer",
+    "domain": "mbph.org.au",
+    "company": "Mildura Base Public Hospital"
+  },
+  {
+    "name": "Katrina Allen",
+    "position": "Executive Director Clinical Operations & CNMO",
+    "domain": "mbph.org.au",
+    "company": "Mildura Base Public Hospital"
+  },
+  {
+    "name": "Heath Kendall",
+    "position": "Executive Director Engagement & Support Services (Marketing Lead)",
+    "domain": "mbph.org.au",
+    "company": "Mildura Base Public Hospital"
+  },
+  {
+    "name": "Janelle McGregor",
+    "position": "Executive Director People, Culture & Strategy",
+    "domain": "mbph.org.au",
+    "company": "Mildura Base Public Hospital"
+  },
+  {
+    "name": "David Kirby",
+    "position": "Executive Director Mental Health",
+    "domain": "mbph.org.au",
+    "company": "Mildura Base Public Hospital"
+  },
+  {
+    "name": "Professor Ian Campbell",
+    "position": "Board Member (Research/Strategy Lead)",
+    "domain": "mbph.org.au",
+    "company": "Mildura Base Public Hospital"
+  }
+]
+[
+  {
+    "name": "Renaud Mazy",
+    "position": "Chief Executive Officer",
+    "domain": "joondaluphealthcampus.com.au",
+    "company": "Joondalup Health Campus"
+  },
+  {
+    "name": "Steve Cohen-Jones",
+    "position": "General Manager, Joondalup Private Hospital (Commercial/Growth Lead)",
+    "domain": "joondaluphealthcampus.com.au",
+    "company": "Joondalup Health Campus"
+  },
+  {
+    "name": "Adrian [Last Name Redacted/Pending]",
+    "position": "Finance Manager (CFO Level)",
+    "domain": "joondaluphealthcampus.com.au",
+    "company": "Joondalup Health Campus"
+  },
+  {
+    "name": "Kevin Hartley",
+    "position": "Director of Medical Services",
+    "domain": "joondaluphealthcampus.com.au",
+    "company": "Joondalup Health Campus"
+  }
+]
+[
+  {
+    "name": "Juliette Koch",
+    "position": "Medical Director (Clinical Lead)",
+    "domain": "repromed.com.au",
+    "company": "Repromed"
+  },
+  {
+    "name": "Prof. Deirdre Zander-Fox",
+    "position": "Chief Scientific Officer",
+    "domain": "repromed.com.au",
+    "company": "Repromed / Monash IVF Group"
+  },
+  |{
+    "name": "Emily Button",
+    "position": "Head Clinical Scientist - Genetics (Strategic Lead)",
+    "domain": "repromed.com.au",
+    "company": "Repromed"
+  },
+]
+[
+  {
+    "name": "Simon Morriss",
+    "position": "Chief Executive Officer",
+    "domain": "homednadirect.com.au",
+    "company": "Home DNA Direct Australia (Genetic Technologies Ltd)"
+  },
+  {
+    "name": "Jules Grove",
+    "position": "Chief Financial Officer",
+    "domain": "homednadirect.com.au",
+    "company": "Home DNA Direct Australia (Genetic Technologies Ltd)"
+  },
+  {
+    "name": "Kevin Camilleri",
+    "position": "CEO, Direct-to-Consumer Division (Brand Founder)",
+    "domain": "homednadirect.com.au",
+    "company": "Home DNA Direct Australia"
+  },
+  {
+    "name": "Michael Walker",
+    "position": "Executive Chairman",
+    "domain": "homednadirect.com.au",
+    "company": "Genetic Technologies Ltd"
+  },
+  {
+    "name": "Mark Ziirsen",
+    "position": "Director of Strategy & Corporate Development",
+    "domain": "homednadirect.com.au",
+    "company": "Home DNA Direct Australia"
+  },
+  {
+    "name": "Priyamvada Rasal",
+    "position": "Company Secretary & Governance Lead",
+    "domain": "homednadirect.com.au",
+    "company": "Genetic Technologies Ltd"
+  }
+]
+[
+  {
+    "name": "Philip Lucas",
+    "position": "Chief Executive Officer",
+    "domain": "lumusimaging.com.au",
+    "company": "Lumus Imaging"
+  },
+  {
+    "name": "Arjun Narang",
+    "position": "Chief Operating Officer",
+    "domain": "lumusimaging.com.au",
+    "company": "Lumus Imaging"
+  },
+  {
+    "name": "Andrew Thomson",
+    "position": "Chief Financial Officer",
+    "domain": "lumusimaging.com.au",
+    "company": "Lumus Imaging"
+  },
+  {
+    "name": "Puneet Nagi",
+    "position": "Executive Director - Operations",
+    "domain": "lumusimaging.com.au",
+    "company": "Lumus Imaging"
+  },
+  {
+    "name": "Prasad Arav",
+    "position": "Group Executive - Digital & Technology (CIO)",
+    "domain": "lumusimaging.com.au",
+    "company": "Lumus Imaging"
+  },
+  {
+    "name": "Anthea Muir",
+    "position": "Group Executive - Customer & Commercial (Marketing Lead)",
+    "domain": "lumusimaging.com.au",
+    "company": "Lumus Imaging"
+  }
+]
+[
+  {
+    "name": "Gary Shepherd",
+    "position": "Chief Executive Officer | Radiologist",
+    "domain": "qscan.com.au",
+    "company": "Qscan Group"
+  },
+  {
+    "name": "Ben Falvey",
+    "position": "Chief Financial Officer",
+    "domain": "qscan.com.au",
+    "company": "Qscan Group"
+  },
+  {
+    "name": "Tanya Wood",
+    "position": "Chief Medical Officer | Radiologist",
+    "domain": "qscan.com.au",
+    "company": "Qscan Group"
+  },
+  {
+    "name": "Simon Button",
+    "position": "Chief Digital and Strategy Officer (CIO/Digital Lead)",
+    "domain": "qscan.com.au",
+    "company": "Qscan Group"
+  },
+  {
+    "name": "Vik Mahajan",
+    "position": "Chief People Officer",
+    "domain": "qscan.com.au",
+    "company": "Qscan Group"
+  },
+  {
+    "name": "John Livingston",
+    "position": "Chair of the Board",
+    "domain": "qscan.com.au",
+    "company": "Qscan Group"
+  },
+  {
+    "name": "Mark Hansen",
+    "position": "Board Director | Co-Founder",
+    "domain": "qscan.com.au",
+    "company": "Qscan Group"
+  }
+]
+[
+  {
+    "name": "Julian Adler",
+    "position": "CEO, Sonic Radiology (Executive Oversight)",
+    "domain": "qldxray.com.au",
+    "company": "Queensland X-Ray / Sonic Healthcare"
+  },
+  {
+    "name": "Mark Sayer",
+    "position": "Chief Executive Officer (QXR)",
+    "domain": "qldxray.com.au",
+    "company": "Queensland X-Ray"
+  },
+  {
+    "name": "Philip Dubois",
+    "position": "Founder & Strategic Advisor (Former CEO)",
+    "domain": "qldxray.com.au",
+    "company": "Queensland X-Ray"
+  },
+  {
+    "name": "Andrew James",
+    "position": "Chief Financial Officer",
+    "domain": "qldxray.com.au",
+    "company": "Queensland X-Ray"
+  },
+  {
+    "name": "James Fitzgerald",
+    "position": "Chief Medical Officer",
+    "domain": "qldxray.com.au",
+    "company": "Queensland X-Ray"
+  },
+  {
+    "name": "Leisel Hickey",
+    "position": "Group Chief Procurement & Strategy Officer",
+    "domain": "sonichealthcare.com.au",
+    "company": "Sonic Healthcare (Parent Entity)"
+  },
+  {
+    "name": "Diane Harari",
+    "position": "Chief Communications Officer (Marketing/Brand Lead)",
+    "domain": "sonichealthcare.com.au",
+    "company": "Sonic Healthcare"
+  }
+]
+[
+  {
+    "name": "Jason Martinez",
+    "position": "Managing Director and Group CEO (Commenced 2026)",
+    "domain": "integraldiagnostics.com.au",
+    "company": "Integral Diagnostics / Lake Imaging"
+  },
+  {
+    "name": "Daniel Hilbert",
+    "position": "General Manager - Lake Imaging",
+    "domain": "lakeimaging.com.au",
+    "company": "Lake Imaging"
+  },
+  {
+    "name": "Craig White",
+    "position": "Chief Financial Officer (Group)",
+    "domain": "integraldiagnostics.com.au",
+    "company": "Integral Diagnostics"
+  },
+  {
+    "name": "Ian Kadish",
+    "position": "Managing Director and CEO (Outgoing/Advisor)",
+    "domain": "integraldiagnostics.com.au",
+    "company": "Integral Diagnostics"
+  },
+  {
+    "name": "Julian Gully",
+    "position": "Chief Information Officer (Group)",
+    "domain": "integraldiagnostics.com.au",
+    "company": "Integral Diagnostics"
+  },
+  {
+    "name": "Tony Chen",
+    "position": "Co-Chief Medical Officer (Clinical Lead)",
+    "domain": "lakeimaging.com.au",
+    "company": "Lake Imaging / IDX Group"
+  },
+  {
+    "name": "Melissa Wong",
+    "position": "Chief People Officer",
+    "domain": "integraldiagnostics.com.au",
+    "company": "Integral Diagnostics"
+  },
+  {
+    "name": "Toby Hall",
+    "position": "Chair of the Board",
+    "domain": "integraldiagnostics.com.au",
+    "company": "Integral Diagnostics"
+  },
+  {
+    "name": "Justin Walter",
+    "position": "Executive Lead - Integration & Transformation (Former CEO)",
+    "domain": "capitalradiology.com.au",
+    "company": "Capital Radiology"
+  },
+  {
+    "name": "Sharon Caffel",
+    "position": "Chief People Officer",
+    "domain": "capitalradiology.com.au",
+    "company": "Capital Radiology"
+  },
+  {
+    "name": "Andrew Demetriou",
+    "position": "Former Chairman / Strategic Advisor",
+    "domain": "capitolhealth.com.au",
+    "company": "Capitol Health"
+  },
+  {
+    "name": "Prasanna Ratnakanthan",
+    "position": "Chief Technologist",
+    "domain": "capitalradiology.com.au",
+    "company": "Capital Radiology"
+  },
+  {
+    "name": "Vincent O'Rourke",
+    "position": "Chief Radiographer (Operational Lead)",
+    "domain": "capitalradiology.com.au",
+    "company": "Capital Radiology"
+  },
+  {
+    "name": "James Challen",
+    "position": "Clinical Director & Director of Training",
+    "domain": "scradiology.com.au",
+    "company": "Sunshine Coast Radiology"
+  },
+  {
+    "name": "Anthony Chan",
+    "position": "Lead Radiologist - Cardiac & Abdominal",
+    "domain": "scradiology.com.au",
+    "company": "Sunshine Coast Radiology"
+  }
+]
+[
+  {
+    "name": "Tamsyn Alley",
+    "position": "Chief Executive Officer",
+    "domain": "bensonradiology.com.au",
+    "company": "Benson Radiology"
+  },
+  {
+    "name": "Alex Frost",
+    "position": "Chief Financial Officer",
+    "domain": "bensonradiology.com.au",
+    "company": "Benson Radiology"
+  },
+  {
+    "name": "Shan Bau",
+    "position": "Managing Partner (Clinical Executive Lead)",
+    "domain": "bensonradiology.com.au",
+    "company": "Benson Radiology"
+  },
+  {
+    "name": "George D'Agostino",
+    "position": "General Manager Marketing",
+    "domain": "bensonradiology.com.au",
+    "company": "Benson Radiology"
+  },
+  {
+    "name": "Jon Martyn",
+    "position": "General Manager Operations",
+    "domain": "bensonradiology.com.au",
+    "company": "Benson Radiology"
+  },
+  {
+    "name": "Scott Baxter",
+    "position": "General Manager IT (CIO Level)",
+    "domain": "bensonradiology.com.au",
+    "company": "Benson Radiology"
+  },
+  {
+    "name": "Alex Gunter",
+    "position": "General Manager People and Culture",
+    "domain": "bensonradiology.com.au",
+    "company": "Benson Radiology"
+  }
+]
+[
+  {
+    "name": "Fin van Rossum",
+    "position": "CEO & Founder",
+    "domain": "citadelmedical.com.au",
+    "company": "Citadel Medical Australia"
+  },
+  {
+    "name": "Josh Hay",
+    "position": "General Manager (COO Level)",
+    "domain": "citadelmedical.com.au",
+    "company": "Citadel Medical Australia"
+  },
+  {
+    "name": "Neil Thomas",
+    "position": "Operations Coordinator",
+    "domain": "citadelmedical.com.au",
+    "company": "Citadel Medical Australia"
+  }
+]
+[
+  {
+    "name": "Paul Richard",
+    "position": "Chief Executive Officer",
+    "domain": "prpimaging.com.au",
+    "company": "PRP Diagnostic Imaging"
+  },
+  {
+    "name": "Rohan Sabharwal",
+    "position": "Chairman of the Board",
+    "domain": "prpimaging.com.au",
+    "company": "PRP Diagnostic Imaging"
+  },
+  {
+    "name": "Shane Sawers",
+    "position": "Head of Information Technology (CIO Level)",
+    "domain": "prpimaging.com.au",
+    "company": "PRP Diagnostic Imaging"
+  },
+  {
+    "name": "Rebecca",
+    "position": "Chief Financial Officer",
+    "domain": "prpimaging.com.au",
+    "company": "PRP Diagnostic Imaging"
+  },
+  {
+    "name": "Dominic Wood",
+    "position": "Medical Director & CEO (Dermatopathologist)",
+    "domain": "iqpathology.com.au",
+    "company": "IQ Pathology"
+  },
+  {
+    "name": "Joe Triscott",
+    "position": "Founding Partner & Executive Director",
+    "domain": "iqpathology.com.au",
+    "company": "IQ Pathology"
+  },
+  {
+    "name": "Paul Anderson",
+    "position": "Chief Executive Officer (Parent Company Oversight)",
+    "domain": "healius.com.au",
+    "company": "Healius Limited"
+  },
+  {
+    "name": "Sam Boros",
+    "position": "Clinical Lead - Dermatopathology",
+    "domain": "iqpathology.com.au",
+    "company": "IQ Pathology"
+  },
+  {
+    "name": "Ralph Treasure",
+    "position": "Managing Director & CEO (Founder)",
+    "domain": "perthcarepartners.com.au",
+    "company": "Perth Care Partners"
+  },
+  {
+    "name": "Michelle Harris-Allsop",
+    "position": "Director of Clinical Strategy & Founder (Advisory)",
+    "domain": "carepartnershipsaustralia.com.au",
+    "company": "Care Partnerships Australia (Strategic Partner)"
+  },
+  {
+    "name": "Tony Randello",
+    "position": "Chief Executive Officer",
+    "domain": "aveo.com.au",
+    "company": "Aveo Group"
+  },
+  {
+    "name": "Justine Hughes",
+    "position": "Chief Operating Officer",
+    "domain": "aveo.com.au",
+    "company": "Aveo Group"
+  },
+  {
+    "name": "Natalie Moore",
+    "position": "Head of Sales and Marketing",
+    "domain": "aveo.com.au",
+    "company": "Aveo Group"
+  },
+  {
+    "name": "Anthony Ibrahim",
+    "position": "Head of Portfolio Management",
+    "domain": "aveo.com.au",
+    "company": "Aveo Group"
+  },
+  {
+    "name": "Stephen Gaitanos",
+    "position": "Joint CEO, Scape Australia (Executive Oversight)",
+    "domain": "scape.com.au",
+    "company": "The Living Company / Aveo"
+  },
+  {
+    "name": "Craig Carracher",
+    "position": "Joint CEO & Executive Chair, Scape Australia",
+    "domain": "scape.com.au",
+    "company": "The Living Company / Aveo"
+  },
+  {
+    "name": "Melinda McGrath",
+    "position": "Chief Executive Officer & Executive Director",
+    "domain": "clinicallabs.com.au",
+    "company": "Australian Clinical Labs"
+  },
+  {
+    "name": "Matthew Cordingley",
+    "position": "Chief Financial Officer",
+    "domain": "clinicallabs.com.au",
+    "company": "Australian Clinical Labs"
+  },
+  {
+    "name": "Anthony Friedli",
+    "position": "Chief Operating Officer",
+    "domain": "clinicallabs.com.au",
+    "company": "Australian Clinical Labs"
+  },
+  {
+    "name": "Sean Jackson",
+    "position": "Chief Information Officer",
+    "domain": "clinicallabs.com.au",
+    "company": "Australian Clinical Labs"
+  },
+  {
+    "name": "Joe Geran",
+    "position": "National Marketing Director",
+    "domain": "clinicallabs.com.au",
+    "company": "Australian Clinical Labs"
+  },
+  {
+    "name": "Associate Professor Tony Landgren",
+    "position": "National Medical Director & Chief Pathologist",
+    "domain": "clinicallabs.com.au",
+    "company": "Australian Clinical Labs"
+  },
+  {
+    "name": "Stephen Roche",
+    "position": "Independent Non-Executive Chairman",
+    "domain": "clinicallabs.com.au",
+    "company": "Australian Clinical Labs"
+  },
+  {
+    "name": "Kate (Kylie) Lambert",
+    "position": "Chief Executive Officer & Co-Founder",
+    "domain": "daughterlycare.com.au",
+    "company": "Daughterly Care"
+  },
+  {
+    "name": "Verlie Hall",
+    "position": "Managing Director, Co-Founder & Registered Nurse",
+    "domain": "daughterlycare.com.au",
+    "company": "Daughterly Care"
+  },
+  {
+    "name": "Nicole-Anne Hickey",
+    "position": "Operations Manager",
+    "domain": "daughterlycare.com.au",
+    "company": "Daughterly Care"
+  },
+  {
+    "name": "Charmayne O’Regan",
+    "position": "Clinical Care Standards Manager",
+    "domain": "daughterlycare.com.au",
+    "company": "Daughterly Care"
+  },
+  {
+    "name": "Glenda Carter",
+    "position": "Client Liaison Manager - Home Care Packages",
+    "domain": "daughterlycare.com.au",
+    "company": "Daughterly Care"
+  },
+  {
+    "name": "Jon Kontopos",
+    "position": "Chief Executive Officer & Founder",
+    "domain": "homecaring.com.au",
+    "company": "Home Caring Australia"
+  },
+  {
+    "name": "Michaela Brown",
+    "position": "Group Operations Manager (COO Level)",
+    "domain": "homecaring.com.au",
+    "company": "Home Caring Australia"
+  },
+  {
+    "name": "Michelle Cuttler",
+    "position": "General Manager - Service Delivery",
+    "domain": "homecaring.com.au",
+    "company": "Home Caring Australia"
+  },
+  {
+    "name": "Bill (Spyridon) Kontopos",
+    "position": "Director & Strategic Advisor",
+    "domain": "homecaring.com.au",
+    "company": "Home Caring Australia"
+  },
+  {
+    "name": "Andrew Kinnersly",
+    "position": "Chief Executive Officer",
+    "domain": "unitingagewell.org",
+    "company": "Uniting AgeWell"
+  },
+  {
+    "name": "Fonda Voukelatos",
+    "position": "Deputy Chief Executive Officer",
+    "domain": "unitingagewell.org",
+    "company": "Uniting AgeWell"
+  },
+  {
+    "name": "Valeria Camara",
+    "position": "Chief People Officer",
+    "domain": "unitingagewell.org",
+    "company": "Uniting AgeWell"
+  },
+  {
+    "name": "Natalie Dillon",
+    "position": "Director of Marketing and Communications",
+    "domain": "unitingagewell.org",
+    "company": "Uniting AgeWell"
+  },
+  {
+    "name": "Raelene Thompson",
+    "position": "Board Chair",
+    "domain": "unitingagewell.org",
+    "company": "Uniting AgeWell"
+  },
+  {
+    "name": "Donna Markham OAM",
+    "position": "Deputy Board Chair",
+    "domain": "unitingagewell.org",
+    "company": "Uniting AgeWell"
+  },
+  {
+    "name": "Gareth Mahon",
+    "position": "Chief Executive Officer & Co-Founder",
+    "domain": "thecareside.com.au",
+    "company": "The CareSide"
+  },
+  {
+    "name": "Emily Mahon",
+    "position": "Director & Co-Founder",
+    "domain": "thecareside.com.au",
+    "company": "The CareSide"
+  },
+  {
+    "name": "Yaneke Mahon",
+    "position": "Clinical Director (CMO Level)",
+    "domain": "thecareside.com.au",
+    "company": "The CareSide"
+  },
+  {
+    "name": "Jennifer Morgan",
+    "position": "Chief Executive Officer",
+    "domain": "nextt.com.au",
+    "company": "Nextt"
+  },
+  {
+    "name": "Kerryn Eastwood",
+    "position": "Chief Customer Experience Officer (Marketing Lead)",
+    "domain": "nextt.com.au",
+    "company": "Nextt"
+  },
+  {
+    "name": "Julie Marsh",
+    "position": "Chief People Officer",
+    "domain": "nextt.com.au",
+    "company": "Nextt"
+  },
+  {
+    "name": "Jon Noddings",
+    "position": "General Manager - Central Services (COO Level)",
+    "domain": "nextt.com.au",
+    "company": "Nextt"
+  },
+  {
+    "name": "Sue Williams",
+    "position": "Chief Executive (CEO)",
+    "domain": "cabrini.com.au",
+    "company": "Cabrini Health"
+  },
+  {
+    "name": "Jason Aquilina",
+    "position": "Chief Financial Officer",
+    "domain": "cabrini.com.au",
+    "company": "Cabrini Health"
+  },
+  {
+    "name": "A/Prof Vineet Sarode",
+    "position": "Group Director, Medical Services and Clinical Governance",
+    "domain": "cabrini.com.au",
+    "company": "Cabrini Health"
+  },
+  {
+    "name": "Sharon Sherwood",
+    "position": "Chief of Mental Health & Outreach Services",
+    "domain": "cabrini.com.au",
+    "company": "Cabrini Health"
+  },
+  {
+    "name": "Tim Staker",
+    "position": "Chief of Cabrini Technology Group",
+    "domain": "cabrini.com.au",
+    "company": "Cabrini Health"
+  },
+  {
+    "name": "Derek Price",
+    "position": "Chief Information Officer",
+    "domain": "cabrini.com.au",
+    "company": "Cabrini Health"
+  },
+  {
+    "name": "Megan Potter",
+    "position": "Director, Cabrini Foundation (Marketing/Philanthropy Lead)",
+    "domain": "cabrini.com.au",
+    "company": "Cabrini Health"
+  },
+  {
+    "name": "Fiona Chapman",
+    "position": "Group Director, People, Culture & Transformation",
+    "domain": "cabrini.com.au",
+    "company": "Cabrini Health"
+  },
+  {
+    "name": "Sylvia Falzon AM",
+    "position": "Board Chair",
+    "domain": "cabrini.com.au",
+    "company": "Cabrini Health"
+  },
+  {
+    "name": "Suzanne Petterson",
+    "position": "CEO & Owner",
+    "domain": "luxecare.com.au",
+    "company": "Luxe Care"
+  },
+  {
+    "name": "Emily [Surname Redacted/Pending]",
+    "position": "Director of Care Operations",
+    "domain": "luxecare.com.au",
+    "company": "Luxe Care"
+  },
+  {
+    "name": "Kristina [Surname Redacted/Pending]",
+    "position": "Client Relations & Marketing Lead",
+    "domain": "luxecare.com.au",
+    "company": "Luxe Care"
+  },
+  {
+    "name": "Mark O’Brien",
+    "position": "Chief Executive Officer",
+    "domain": "prestigeinhomecare.com.au",
+    "company": "Prestige Inhome Care"
+  },
+  {
+    "name": "Nick McDonald",
+    "position": "Founder & Non-Executive Director",
+    "domain": "prestigeinhomecare.com.au",
+    "company": "Prestige Inhome Care"
+  },
+  {
+    "name": "Thea McCroary",
+    "position": "Chief Operating Officer & Co-Owner",
+    "domain": "prestigeinhomecare.com.au",
+    "company": "Prestige Inhome Care"
+  },
+  {
+    "name": "Cleide Pereira",
+    "position": "Chief Financial Officer",
+    "domain": "prestigeinhomecare.com.au",
+    "company": "Prestige Inhome Care"
+  },
+  {
+    "name": "Andrew Connolly",
+    "position": "Chief Technology Officer",
+    "domain": "prestigeinhomecare.com.au",
+    "company": "Prestige Inhome Care"
+  },
+  {
+    "name": "Anthony Goldman",
+    "position": "General Manager - Strategy & Technology",
+    "domain": "prestigeinhomecare.com.au",
+    "company": "Prestige Inhome Care"
+  },
+  {
+    "name": "Yasmine Alcide-Vaccaro",
+    "position": "Marketing Manager",
+    "domain": "prestigeinhomecare.com.au",
+    "company": "Prestige Inhome Care"
+  },
+  {
+    "name": "Michael Boyce",
+    "position": "Independent Director & Board Chair",
+    "domain": "prestigeinhomecare.com.au",
+    "company": "Prestige Inhome Care"
+  },
+  {
+    "name": "Chris Mamarelis",
+    "position": "Chief Executive Officer",
+    "domain": "whiddon.com.au",
+    "company": "Whiddon"
+  },
+  {
+    "name": "Sharon Fletcher",
+    "position": "Executive General Manager - Research & Positive Ageing",
+    "domain": "whiddon.com.au",
+    "company": "Whiddon"
+  },
+  {
+    "name": "Ian Vaughan",
+    "position": "General Manager - Marketing and Communications",
+    "domain": "whiddon.com.au",
+    "company": "Whiddon"
+  },
+  {
+    "name": "Jacqueline Boustani",
+    "position": "General Manager - Business Sustainability",
+    "domain": "whiddon.com.au",
+    "company": "Whiddon"
+  },
+  {
+    "name": "Rohit Mehta",
+    "position": "General Manager - People & Culture",
+    "domain": "whiddon.com.au",
+    "company": "Whiddon"
+  },
+  {
+    "name": "Stacy Wake",
+    "position": "General Manager - Quality, Care and Compliance",
+    "domain": "whiddon.com.au",
+    "company": "Whiddon"
+  },
+  {
+    "name": "Len Kearns",
+    "position": "Chairperson of the Board",
+    "domain": "whiddon.com.au",
+    "company": "Whiddon"
+  }
+]
