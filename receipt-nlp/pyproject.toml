@@ -1,0 +1,195 @@
+# pyproject.toml
+# Single source of truth for build, metadata, dependencies, and tooling.
+# PEP 517 / 518 / 621 compliant. Replaces the old monolithic setup.py.
+
+# ---------------------------------------------------------------------------
+# Build system
+# ---------------------------------------------------------------------------
+[build-system]
+requires      = ["setuptools>=72", "wheel"]
+build-backend = "setuptools.backends.legacy:build"
+
+
+# ---------------------------------------------------------------------------
+# Core project metadata  (PEP 621)
+# ---------------------------------------------------------------------------
+[project]
+name        = "recipe-nlp-pipeline"
+version     = "0.1.0"           # single source — import from __version__ at runtime
+description = "NLP pipeline for transforming raw scraped recipes into structured, enriched records."
+readme      = { file = "README.md", content-type = "text/markdown" }
+license     = { text = "MIT" }
+requires-python = ">=3.10"
+
+authors = [
+    { name = "GoBig Digital NLP Team", email = "engineering@gobigdigital.com" },
+]
+
+keywords = [
+    "nlp",
+    "recipe parsing",
+    "ingredient extraction",
+    "text processing",
+    "machine learning",
+]
+
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Text Processing :: Linguistic",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Typing :: Typed",
+]
+
+# ---------------------------------------------------------------------------
+# Runtime dependencies — pinned at a lower bound only; let the resolver do
+# its job. Hard upper bounds here cause unnecessary breakage for consumers.
+# ---------------------------------------------------------------------------
+dependencies = [
+    "python-dotenv>=1.0",
+    # DB
+    "psycopg2-binary>=2.9",          # swap for psycopg[binary] on Psycopg 3 projects
+    # Data
+    "pandas>=2.0",
+    "numpy>=1.26",                   # 1.26 is the first numpy with full 3.12 support
+    # HTTP
+    "httpx>=0.27",                   # modern async-capable alternative to requests
+    "requests>=2.31",                # keep for sync-only code that uses it directly
+    # NLP / ML
+    "spacy>=3.7",
+    "sentence-transformers>=3.0",
+    "faiss-cpu>=1.8",
+    "networkx>=3.2",
+    # Validation
+    "pydantic>=2.6",
+]
+
+# ---------------------------------------------------------------------------
+# Optional / extras
+# ---------------------------------------------------------------------------
+[project.optional-dependencies]
+
+# GPU-accelerated FAISS — mutually exclusive with the faiss-cpu in base deps.
+# Install with:  pip install "recipe-nlp-pipeline[gpu]"
+gpu = [
+    "faiss-gpu>=1.8",
+]
+
+# Development tools
+dev = [
+    "black>=24.0",
+    "ruff>=0.4",                     # replaces flake8 + isort + many others
+    "mypy>=1.10",
+    "pytest>=8.0",
+    "pytest-cov>=5.0",
+    "pytest-xdist>=3.5",             # parallel test execution
+    "ipykernel",                     # notebook support for exploratory work
+    "types-requests",                # mypy stubs
+]
+
+# Minimal subset needed to run tests in CI (faster installs)
+test = [
+    "pytest>=8.0",
+    "pytest-cov>=5.0",
+    "pytest-xdist>=3.5",
+]
+
+# Full local dev convenience target
+all = [
+    "recipe-nlp-pipeline[dev]",
+    "recipe-nlp-pipeline[test]",
+]
+
+# ---------------------------------------------------------------------------
+# Console scripts
+# ---------------------------------------------------------------------------
+[project.scripts]
+run-recipe-pipeline  = "scripts.run_pipeline:main"
+reprocess-recipes    = "scripts.reprocess_recipes:main"
+generate-embeddings  = "scripts.generate_embeddings:main"
+
+# ---------------------------------------------------------------------------
+# Project URLs
+# ---------------------------------------------------------------------------
+[project.urls]
+Homepage      = "https://github.com/gobigdigital/recipe-nlp-pipeline"
+Repository    = "https://github.com/gobigdigital/recipe-nlp-pipeline"
+"Bug Tracker" = "https://github.com/gobigdigital/recipe-nlp-pipeline/issues"
+Changelog     = "https://github.com/gobigdigital/recipe-nlp-pipeline/blob/main/CHANGELOG.md"
+
+
+# ---------------------------------------------------------------------------
+# Package discovery
+# ---------------------------------------------------------------------------
+[tool.setuptools.packages.find]
+exclude = ["tests*", "scripts*", "docs*", "notebooks*"]
+
+[tool.setuptools.package-data]
+"*" = ["py.typed"]          # PEP 561 marker — signals to mypy that this package is typed
+"data" = ["*.json"]
+
+
+# ===========================================================================
+# Tool configuration — all in one file, no extra config files needed
+# ===========================================================================
+
+# ---------------------------------------------------------------------------
+# Black
+# ---------------------------------------------------------------------------
+[tool.black]
+line-length    = 100
+target-version = ["py310", "py311", "py312"]
+
+# ---------------------------------------------------------------------------
+# Ruff  (linter + formatter; replaces flake8, isort, pyupgrade, bandit-lite)
+# ---------------------------------------------------------------------------
+[tool.ruff]
+line-length    = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+select = [
+    "E", "W",   # pycodestyle
+    "F",        # pyflakes
+    "I",        # isort
+    "UP",       # pyupgrade
+    "B",        # flake8-bugbear
+    "C4",       # flake8-comprehensions
+    "SIM",      # flake8-simplify
+    "TID",      # tidy imports
+]
+ignore = ["E501"]   # line length handled by black
+
+# ---------------------------------------------------------------------------
+# Mypy
+# ---------------------------------------------------------------------------
+[tool.mypy]
+python_version          = "3.10"
+strict                  = true
+ignore_missing_imports  = true
+warn_unused_configs     = true
+
+# ---------------------------------------------------------------------------
+# Pytest
+# ---------------------------------------------------------------------------
+[tool.pytest.ini_options]
+testpaths        = ["tests"]
+addopts          = "-ra -q --tb=short"
+filterwarnings   = ["error", "ignore::DeprecationWarning"]
+
+[tool.coverage.run]
+source   = ["recipe_nlp_pipeline"]
+branch   = true
+omit     = ["*/tests/*", "scripts/*"]
+
+[tool.coverage.report]
+show_missing   = true
+skip_covered   = false
+fail_under     = 80
